@@ -30,14 +30,14 @@ I've shipped **20+ apps** on the App Store for various clients including Fortune
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Storyboard-1C78C0?style=flat&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/AVFoundation-6C47FF?style=flat&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/App+Security-FF3B30?style=flat&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse+Engineering-333333?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/App%20Security-FF3B30?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-333333?style=flat&logo=apple&logoColor=white" />
 </p>
 
 <p align="center"><strong>AI & Backend</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude+Code-d97706?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-d97706?style=flat&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
@@ -56,5 +56,5 @@ I've shipped **20+ apps** on the App Store for various clients including Fortune
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chintan100&color=007AFF&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=chintan100&color=007AFF&style=flat-square&label=Profile%20Views" />
 </p>
