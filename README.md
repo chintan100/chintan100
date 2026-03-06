@@ -37,6 +37,7 @@ I've shipped **20+ apps** on the App Store for various clients including Fortune
 <p align="center"><strong>AI & Backend</strong></p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Claude+Code-d97706?style=flat&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
