@@ -45,8 +45,8 @@ I've shipped **20+ apps** on the App Store for various clients including Fortune
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=chintan100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=007AFF&title_color=007AFF" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintan100&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=007AFF" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chintan100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=007AFF&title_color=007AFF" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chintan100&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=007AFF" />
 </p>
 
 <p align="center">
