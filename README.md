@@ -42,6 +42,8 @@ I've shipped **20+ apps** on the App Store for various clients including Fortune
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Convex-EE342F?style=flat&logo=convex&logoColor=white" />
   <img src="https://img.shields.io/badge/Parse-169CEE?style=flat&logo=parse&logoColor=white" />
 </p>
 
