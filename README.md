@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://chintan.ai">
-    <img src="https://readme-typing-svg.demolab.com/?lines=iOS+Developer+%7C+15%2B+Years;20%2B+Apps+on+the+App+Store;15+Million%2B+Installs+Combined;Building+for+Apple+since+January+2009&font=Fira+Code&center=true&width=440&height=45&color=007AFF&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=iOS+Developer+%7C+15%2B+Years;20%2B+Apps+on+the+App+Store;15+Million%2B+Installs+Combined;Building+for+Apple+since+January+2009&font=Fira+Code&center=true&width=600&height=45&color=007AFF&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
