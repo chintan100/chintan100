@@ -52,7 +52,7 @@ I've shipped **20+ apps** on the App Store for various clients including Fortune
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chintan100&theme=tokyonight&hide_border=true&background=1a1b27&ring=007AFF&fire=FF9500&currStreakLabel=007AFF&type=png&exclude_days=&mode=yearly" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chintan100&theme=tokyonight&hide_border=true&background=1a1b27&ring=007AFF&fire=FF9500&currStreakLabel=007AFF&starting_year=2025" />
 </p>
 
 ---
