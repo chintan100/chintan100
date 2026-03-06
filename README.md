@@ -8,7 +8,7 @@
   <a href="https://chintan.ai"><img src="https://img.shields.io/badge/Website-chintan.ai-007AFF?style=for-the-badge&logo=safari&logoColor=white" /></a>
   <a href="https://linkedin.com/in/chintan100"><img src="https://img.shields.io/badge/LinkedIn-chintan100-007AFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/FollowChintan"><img src="https://img.shields.io/badge/X-@FollowChintan-007AFF?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://medium.com/@chintan100"><img src="https://img.shields.io/badge/Medium-@chintan100-007AFF?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://medium.com/@chintan100"><img src="https://img.shields.io/badge/-007AFF?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
