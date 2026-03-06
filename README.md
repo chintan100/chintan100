@@ -21,24 +21,28 @@ I've shipped **20+ apps** on the App Store for various clients including Fortune
 
 ### Tech Stack
 
-**Apple Ecosystem**
+<p align="center"><strong>Apple Ecosystem</strong></p>
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat&logo=apple&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)
-![Storyboard](https://img.shields.io/badge/Storyboard-1C78C0?style=flat&logo=apple&logoColor=white)
-![AVFoundation](https://img.shields.io/badge/AVFoundation-6C47FF?style=flat&logo=apple&logoColor=white)
-![App Security](https://img.shields.io/badge/App+Security-FF3B30?style=flat&logo=apple&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse+Engineering-333333?style=flat&logo=apple&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storyboard-1C78C0?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/AVFoundation-6C47FF?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/App+Security-FF3B30?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse+Engineering-333333?style=flat&logo=apple&logoColor=white" />
+</p>
 
-**AI & Backend**
+<p align="center"><strong>AI & Backend</strong></p>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Parse](https://img.shields.io/badge/Parse-169CEE?style=flat&logo=parse&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Parse-169CEE?style=flat&logo=parse&logoColor=white" />
+</p>
 
 ---
 
