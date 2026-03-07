@@ -8,7 +8,7 @@
 
 ### About Me
 
-I've shipped **20+ apps** on the App Store for various clients including Fortune 500 companies, with **15 million+ installs** combined.
+I've shipped **20+ apps** for various clients including Fortune 500 companies, VC-backed/bootstrapped startups, financial institutes with >$900B AUM. Apps I've worked on have **15 million+ installs** combined.
 
 ---
 
